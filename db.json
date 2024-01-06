@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Smart Phone",
+      "make": "XYZ",
+      "model": "A1",
+      "price": 1500,
+      "stockAmount": 50,
+      "color": "Black",
+      "specs": [
+        "4G LTE connection",
+        "64 GB SSD",
+        "5.5 inç screen"
+      ],
+      "image": "https://picsum.photos/201"
+    },
+    {
+      "id": 2,
+      "title": "Laptop",
+      "make": "ABC",
+      "model": "B2",
+      "price": 3000,
+      "stockAmount": 30,
+      "color": "Silver",
+      "specs": [
+        "Intel Core i7",
+        "16 GB RAM",
+        "512 GB SSD"
+      ],
+      "image": "https://picsum.photos/202"
+    },
+    {
+      "id": 3,
+      "title": "Wireless Earphone",
+      "make": "DEF",
+      "model": "C3",
+      "price": 150,
+      "stockAmount": 100,
+      "color": "White",
+      "specs": [
+        "Bluetooth 5.0",
+        "Touch control",
+        "20 hours battery"
+      ],
+      "image": "https://picsum.photos/203"
+    },
+    {
+      "id": 4,
+      "title": "Smart Watch",
+      "make": "GHI",
+      "model": "D4",
+      "price": 500,
+      "stockAmount": 20,
+      "color": "Metallic Gray",
+      "specs": [
+        "GPS",
+        "Heart rate censor",
+        "Waterproof"
+      ],
+      "image": "https://picsum.photos/204"
+    },
+    {
+      "id": 5,
+      "title": "Smart TV",
+      "make": "KLM",
+      "model": "E5",
+      "price": 2500,
+      "stockAmount": 40,
+      "color": "Black",
+      "specs": [
+        "4K Ultra HD",
+        "Smart TV",
+        "50 inch screen"
+      ],
+      "image": "https://picsum.photos/205"
+    },
+    {
+      "id": 6,
+      "title": "Game PC",
+      "make": "NOP",
+      "model": "F6",
+      "price": 4000,
+      "stockAmount": 25,
+      "color": "RGB lightning",
+      "specs": [
+        "NVIDIA GeForce RTX 3080",
+        "32 GB RAM",
+        "1 TB NVMe SSD"
+      ],
+      "image": "https://picsum.photos/206"
+    },
+    {
+      "id": 14,
+      "title": "Bluetooth Speaker",
+      "make": "QRS",
+      "model": "G7",
+      "price": 120,
+      "stockAmount": 80,
+      "color": "Blue",
+      "specs": [
+        "Wireless charge",
+        "Portable",
+        "10 hours battery life"
+      ],
+      "image": "https://picsum.photos/207"
+    },
+    {
+      "id": 7,
+      "title": "Camera",
+      "make": "TUV",
+      "model": "H8",
+      "price": 800,
+      "stockAmount": 15,
+      "color": "Black",
+      "specs": [
+        "4 cameras",
+        "Night vision",
+        "Motion Sensor"
+      ],
+      "image": "https://picsum.photos/208"
+    },
+    {
+      "id": 8,
+      "title": "Wireless Mouse",
+      "make": "XYZ",
+      "model": "F9",
+      "price": 80,
+      "stockAmount": 60,
+      "color": "Black",
+      "specs": [
+        "Ergonomic design",
+        "1200 DPI sensibility",
+        "Dual tracking"
+      ],
+      "image": "https://picsum.photos/209"
+    },
+    {
+      "id": 9,
+      "title": "Fitness Smart Band",
+      "make": "ABC",
+      "model": "B10",
+      "price": 120,
+      "stockAmount": 35,
+      "color": "Pink",
+      "specs": [
+        "Hear rate sensor",
+        "Step counter",
+        "Sleep tracker"
+      ],
+      "image": "https://picsum.photos/210"
+    },
+    {
+      "id": 10,
+      "title": "Portabel SSD",
+      "make": "DEF",
+      "model": "C11",
+      "price": 200,
+      "stockAmount": 45,
+      "color": "Gray",
+      "specs": [
+        "500 GB storage",
+        "USB-C connection",
+        "Rapid data transfer"
+      ],
+      "image": "https://picsum.photos/211"
+    },
+    {
+      "id": 11,
+      "title": "Keyboard and Mouse",
+      "make": "GHI",
+      "model": "D12",
+      "price": 150,
+      "stockAmount": 25,
+      "color": "RGB lightning",
+      "specs": [
+        "Mechanical keys",
+        "Programmable keys",
+        "Optic mouse"
+      ],
+      "image": "https://picsum.photos/212"
+    }
+  ],
+  "basket": []
+}
